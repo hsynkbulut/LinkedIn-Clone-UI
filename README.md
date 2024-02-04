@@ -27,7 +27,7 @@ Bu proje, Dart dilinde Flutter ile geliştirilmiş LinkedIn Mobil Uygulaması kl
 
 
 ## Lisans
-Bu proje MIT lisansı altında lisanslanmıştır - Daha fazla bilgi için [LICENSE](LICENSE) dosyasına bakın.
+Bu proje MIT lisansı altında lisanslanmıştır - Daha fazla bilgi için [LICENSE](LICENSE.txt) dosyasına bakın.
 
 ---
 
